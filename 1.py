@@ -11,4 +11,6 @@ def Sum(x):
     return sum
 x = 45
 print(Sum(x))
-
+x=45
+y = x//10 + x % 10
+print (y)
