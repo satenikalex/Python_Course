@@ -6,6 +6,6 @@ Examples
 "1 < 2 < 6 < 9 > 3" ➞ True
 """
 
-a = input()
-x = a.isdigit()
-print (x)
+# a = input()
+# x = a.isdigit()
+x = i

@@ -10,4 +10,3 @@ All numbers will be positive.
 
 input_text = int(input())
 print(input_text)
-

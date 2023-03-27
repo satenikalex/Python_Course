@@ -6,7 +6,6 @@ Examples
 "shakespeare", "*" ➞ "sh*k*sp**r*"
 """
 word = input()
-# b = specified_charter = input()
 # vowels = ("aeiou")
 
 z = word.replace("a", "*") or  word.replace("e", "*") or word.replace("i", "*") or word.replace("o", "*") or word.replace("u","*" )
